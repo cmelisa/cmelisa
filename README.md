@@ -1,17 +1,18 @@
 <h2 align="left">Hi 👋! My name is Melisa  and I'm a software developer from Turkey</h2>
 
-
+###
 
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTdyZHFrNWZza2Vnc25vMG5ieW40YWpwYXRqOTBzcHpvY2VyejNodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif"  />
 
-
+###
 
 <p align="left">-Learn and develop<br>-Software development is an art that requires patience, perseverance and passion.</p>
 
+###
 
 <h3 align="left">Connect with me!</h3>
 
-
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/melisaceylan/" target="_blank">
@@ -25,11 +26,11 @@
   </a>
 </div>
 
-
+###
 
 <h3 align="left">Languages and Tools</h3>
 
-
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -71,5 +72,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg" height="30" alt="openal logo"  />
 </div>
 
+###
 
 <img src="https://raw.githubusercontent.com/cmelisa/cmelisa/output/snake.svg" alt="Snake animation" />
+
+###
