@@ -74,6 +74,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/cmelisa/cmelisa/output/snake.svg" alt="Snake animation" />
+
 
 ###
